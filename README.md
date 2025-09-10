@@ -23,3 +23,7 @@ I really enjoy *Breaking Bad* because of its **storytelling** and **complex char
 
 ---
 
+```markdown
+---
+[Click here to read about my favorite outdoor activity](./MyActivity.md)
+---
