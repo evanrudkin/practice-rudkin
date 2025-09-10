@@ -45,5 +45,14 @@ Here are some people I’d love to meet as they are all considered some of the b
 *— Marie Curie*
 
 ---
+## Code Snippet (Python — Snippet #1)
+
+Removes Python falsy values from a list by using the filter function.
+
+```python
+def remove_falsy(unfiltered_list):
+    return list(filter(bool, unfiltered_list))
+```
+---
 [Click here to read about my favorite outdoor activity](MyActivity.md)
 ---
