@@ -36,6 +36,13 @@ Here are some people I’d love to meet as they are all considered some of the b
 
 ---
 
+## Favorite Quotes
+
+> “Imagination is more important than knowledge.”  
+*— Albert Einstein*
+
+> “Nothing in life is to be feared, it is only to be understood.”  
+*— Marie Curie*
 
 ---
 [Click here to read about my favorite outdoor activity](MyActivity.md)
