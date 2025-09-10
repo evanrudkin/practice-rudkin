@@ -15,3 +15,11 @@ I really enjoy *Breaking Bad* because of its **storytelling** and **complex char
 2. Aaron Paul (Jesse Pinkman)
 3. Giancarlo Esposito (Gus Fring)
 
+### Other TV Shows I Like
+
+- Better Call Saul
+- The Office
+- Stranger Things
+
+---
+
